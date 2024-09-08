@@ -1,1 +1,1 @@
-# cscu-clone-programming-essentials-workshop-2024
+# clone this repository!
